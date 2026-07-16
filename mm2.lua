@@ -1,7 +1,7 @@
 -- Z4K4 HUB | Murder Mystery 2
 -- Kolory: różowy (#FF69B4) i czarny (#000000)
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/7kayoh/UI-Library/main/Source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Plakalhub/mm2/refs/heads/main/mm2.lua"))()
 local Window = Library:CreateWindow("Z4K4 HUB", Color3.fromRGB(255, 105, 180), Color3.fromRGB(0, 0, 0))
 
 local Players = game:GetService("Players")
